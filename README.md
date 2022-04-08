@@ -33,9 +33,9 @@ Tutorial YouTube
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
 ```ts 
-OwnerNumber = ['wa.me/6287892711054']
-GithubOwner = ['https://github.com/Hyzerr']
-GroupOwner = ['https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD']
+OwnerNumber = ['wa.me/6281391883354']
+GithubOwner = ['https://github.com/kap320']
+GroupOwner = ['Tidak ada']
 Apikey? = Apikey kalian, tidak paham? chat saya di wangsaf!
 
 Thumbnail

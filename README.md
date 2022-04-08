@@ -28,7 +28,7 @@ Heroku Buildpack
 
 Tutorial YouTube
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://Bit.ly/3qCgkKv)
 
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
@@ -71,5 +71,5 @@ node .
 ---------
 
 # My Sosial 
-- [Group ](https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD) 
-- [Whatsapp ](https://wa.me/6287892711054)
+- [Group ](https://chat.whatsapp.com/BkxbwERGX9x0mAhAsiDWxP) 
+- [Whatsapp ](https://wa.me/6281391883354)
